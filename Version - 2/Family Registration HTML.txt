@@ -1,0 +1,137 @@
+<html>
+<body>
+
+<form action="/http://www.healthelf.info/registration-sucessful.html">
+ <p><font size="4">First name:</font></p>
+  <input type="text" name="firstname" value="">
+  <br>
+ <p><font size="4">Last name:</font></p>
+  <input type="text" name="lastname" value="">
+  <br>
+   <p><font size="4">Relation:</font></p>
+  <select name="relation">
+    <option value="mother" selected>Mother</option>
+    <option value="father">Father</option>
+    <option value="sister">Sister</option>
+    <option value="brother">Brother</option>
+    <option value="spouse">Spouse</option>
+  </select>
+  <br>
+<p><font size="4">Date of Birth:</font></p>
+  <input type="text" name="dateofbirth" value="">
+  <br>
+   Sex:<br>
+ <p><font size="4">Relation:</font></p>
+    <option value="male" selected>Male</option>
+    <option value="female">Female</option>
+    </select>
+  <br>
+  <br>
+</form> 
+
+
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="">
+  <br>
+   Relation:<br>
+  <select name="relation">
+    <option value="mother" selected>Mother</option>
+    <option value="father">Father</option>
+    <option value="sister">Sister</option>
+    <option value="brother">Brother</option>
+    <option value="spouse">Spouse</option>
+  </select>
+  <br>
+   Sex:<br>
+  <select name="relation">
+    <option value="male" selected>Male</option>
+    <option value="female">Female</option>
+    </select>
+  <br>
+  <br>
+</form> 
+
+
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="">
+  <br>
+   Relation:<br>
+  <select name="relation">
+    <option value="mother" selected>Mother</option>
+    <option value="father">Father</option>
+    <option value="sister">Sister</option>
+    <option value="brother">Brother</option>
+    <option value="spouse">Spouse</option>
+  </select>
+  <br>
+   Sex:<br>
+  <select name="relation">
+    <option value="male" selected>Male</option>
+    <option value="female">Female</option>
+    </select>
+  <br>
+  <br>
+</form> 
+
+
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="">
+  <br>
+   Relation:<br>
+  <select name="relation">
+    <option value="mother" selected>Mother</option>
+    <option value="father">Father</option>
+    <option value="sister">Sister</option>
+    <option value="brother">Brother</option>
+    <option value="spouse">Spouse</option>
+  </select>
+  <br>
+   Sex:<br>
+  <select name="relation">
+    <option value="male" selected>Male</option>
+    <option value="female">Female</option>
+    </select>
+  <br>
+  <br>
+</form> 
+
+
+  First name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="">
+  <br>
+   Relation:<br>
+  <select name="relation">
+    <option value="mother" selected>Mother</option>
+    <option value="father">Father</option>
+    <option value="sister">Sister</option>
+    <option value="brother">Brother</option>
+    <option value="spouse">Spouse</option>
+  </select>
+  <br>
+   Sex:<br>
+  <select name="relation">
+    <option value="male" selected>Male</option>
+    <option value="female">Female</option>
+    </select>
+  <br><br>
+  <input type="submit" value="Submit">
+  <br>
+</form> 
+<br><br><br><br><br><br><br>
+
+
+</body>
+</html>
+
